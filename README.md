@@ -8,7 +8,8 @@
     <li> For API Authentication Middleware used(app/Http/Middleware/VerifyAuthToken.php)  </li>
     <li> Table Name : book_details and Make Model for this :(app/Book.php) </li>
     <li> Controller Having All logic and function (app/Http/Controllers/bookController.php) </li>
-  </ul>      
+    <li> SQL File Path Root Directory | Name: book_details.sql </li>
+    </ul>      
       </div>
   <div>
 <h2>API End Pints</h2>
