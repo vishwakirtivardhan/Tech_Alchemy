@@ -22,7 +22,7 @@
 </div>
 
 <h3 class="text-danger">
-Note* : While updating and Insert the record In Using API use RAW Json formate. Possible Parameters.
+Note* : While updating and Insert the record In Using API use RAW Json formate. Possible Parameters are :.
 </h3>
 <p>
 {
